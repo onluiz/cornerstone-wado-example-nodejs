@@ -1,0 +1,20 @@
+{
+  "name": "cornerstone-wado-example-nodejs",
+  "version": "1.0.0",
+  "description": "A nodejs app to test cornerstoneWadoImageLoader.js",
+  "author": "Luiz Alberto",
+  "homepage": "https://github.com/onluiz/cornerstone-wado-example-nodejs",
+  "license": "MIT",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onluiz/cornerstone-wado-example-nodejs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
